@@ -1,0 +1,17 @@
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.BusinessLayer\obj\Debug\net7.0\Portfolio.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.BusinessLayer\obj\Debug\net7.0\Portfolio.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.BusinessLayer\obj\Debug\net7.0\Portfolio.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.BusinessLayer\obj\Debug\net7.0\Portfolio.BusinessLayer.AssemblyInfo.cs
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.BusinessLayer\obj\Debug\net7.0\Portfolio.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.BusinessLayer\bin\Debug\net7.0\Portfolio.BusinessLayer.deps.json
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.BusinessLayer\bin\Debug\net7.0\Portfolio.BusinessLayer.dll
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.BusinessLayer\bin\Debug\net7.0\Portfolio.BusinessLayer.pdb
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.BusinessLayer\bin\Debug\net7.0\Portfolio.DataAccessLayer.dll
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.BusinessLayer\bin\Debug\net7.0\Portfolio.Domain.dll
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.BusinessLayer\bin\Debug\net7.0\Portfolio.DataAccessLayer.pdb
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.BusinessLayer\bin\Debug\net7.0\Portfolio.Domain.pdb
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.BusinessLayer\obj\Debug\net7.0\Portfoli.08B93FED.Up2Date
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.BusinessLayer\obj\Debug\net7.0\Portfolio.BusinessLayer.dll
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.BusinessLayer\obj\Debug\net7.0\refint\Portfolio.BusinessLayer.dll
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.BusinessLayer\obj\Debug\net7.0\Portfolio.BusinessLayer.pdb
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.BusinessLayer\obj\Debug\net7.0\ref\Portfolio.BusinessLayer.dll

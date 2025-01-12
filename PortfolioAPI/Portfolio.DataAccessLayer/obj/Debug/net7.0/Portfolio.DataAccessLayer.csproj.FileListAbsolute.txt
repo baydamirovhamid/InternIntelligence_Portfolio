@@ -1,0 +1,17 @@
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.DataAccessLayer\obj\Debug\net7.0\Portfolio.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.DataAccessLayer\obj\Debug\net7.0\Portfolio.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.DataAccessLayer\obj\Debug\net7.0\Portfolio.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.DataAccessLayer\obj\Debug\net7.0\Portfolio.DataAccessLayer.AssemblyInfo.cs
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.DataAccessLayer\obj\Debug\net7.0\Portfolio.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.DataAccessLayer\bin\Debug\net7.0\Portfolio.DataAccessLayer.deps.json
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.DataAccessLayer\bin\Debug\net7.0\Portfolio.DataAccessLayer.runtimeconfig.json
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.DataAccessLayer\bin\Debug\net7.0\Portfolio.DataAccessLayer.dll
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.DataAccessLayer\bin\Debug\net7.0\Portfolio.DataAccessLayer.pdb
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.DataAccessLayer\bin\Debug\net7.0\Portfolio.Domain.dll
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.DataAccessLayer\bin\Debug\net7.0\Portfolio.Domain.pdb
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.DataAccessLayer\obj\Debug\net7.0\Portfoli.E24F7613.Up2Date
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.DataAccessLayer\obj\Debug\net7.0\Portfolio.DataAccessLayer.dll
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.DataAccessLayer\obj\Debug\net7.0\refint\Portfolio.DataAccessLayer.dll
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.DataAccessLayer\obj\Debug\net7.0\Portfolio.DataAccessLayer.pdb
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.DataAccessLayer\obj\Debug\net7.0\Portfolio.DataAccessLayer.genruntimeconfig.cache
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.DataAccessLayer\obj\Debug\net7.0\ref\Portfolio.DataAccessLayer.dll

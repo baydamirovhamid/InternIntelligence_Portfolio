@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\99470\\Desktop\\Portfolio\\PortfolioAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\99470\\Desktop\\Portfolio\\PortfolioAPI\\Portfolio.DataAccessLayer\\Migrations\\20250112225231_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Portfolio.DataAccessLayer\\Migrations\\20250112225231_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9CC98D-8BE6-49BD-8671-EC8B15D0CE95}|Portfolio.DataAccessLayer\\Portfolio.DataAccessLayer.csproj|c:\\users\\99470\\desktop\\portfolio\\portfolioapi\\portfolio.dataaccesslayer\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9CC98D-8BE6-49BD-8671-EC8B15D0CE95}|Portfolio.DataAccessLayer\\Portfolio.DataAccessLayer.csproj|solutionrelative:portfolio.dataaccesslayer\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9CC98D-8BE6-49BD-8671-EC8B15D0CE95}|Portfolio.DataAccessLayer\\Portfolio.DataAccessLayer.csproj|c:\\users\\99470\\desktop\\portfolio\\portfolioapi\\portfolio.dataaccesslayer\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9CC98D-8BE6-49BD-8671-EC8B15D0CE95}|Portfolio.DataAccessLayer\\Portfolio.DataAccessLayer.csproj|solutionrelative:portfolio.dataaccesslayer\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27FAEE6B-BC05-4B69-82D3-A4310BB4F8B8}|Portfolio.Domain\\Portfolio.Domain.csproj|c:\\users\\99470\\desktop\\portfolio\\portfolioapi\\portfolio.domain\\entities\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27FAEE6B-BC05-4B69-82D3-A4310BB4F8B8}|Portfolio.Domain\\Portfolio.Domain.csproj|solutionrelative:portfolio.domain\\entities\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27FAEE6B-BC05-4B69-82D3-A4310BB4F8B8}|Portfolio.Domain\\Portfolio.Domain.csproj|c:\\users\\99470\\desktop\\portfolio\\portfolioapi\\portfolio.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27FAEE6B-BC05-4B69-82D3-A4310BB4F8B8}|Portfolio.Domain\\Portfolio.Domain.csproj|solutionrelative:portfolio.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2533E9-AAD6-41C5-BBB8-05BF9ABB1673}|PortfolioAPI\\PortfolioAPI.csproj|c:\\users\\99470\\desktop\\portfolio\\portfolioapi\\portfolioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2533E9-AAD6-41C5-BBB8-05BF9ABB1673}|PortfolioAPI\\PortfolioAPI.csproj|solutionrelative:portfolioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2533E9-AAD6-41C5-BBB8-05BF9ABB1673}|PortfolioAPI\\PortfolioAPI.csproj|c:\\users\\99470\\desktop\\portfolio\\portfolioapi\\portfolioapi\\portfolioapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E2533E9-AAD6-41C5-BBB8-05BF9ABB1673}|PortfolioAPI\\PortfolioAPI.csproj|solutionrelative:portfolioapi\\portfolioapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27FAEE6B-BC05-4B69-82D3-A4310BB4F8B8}|Portfolio.Domain\\Portfolio.Domain.csproj|c:\\users\\99470\\desktop\\portfolio\\portfolioapi\\portfolio.domain\\entities\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27FAEE6B-BC05-4B69-82D3-A4310BB4F8B8}|Portfolio.Domain\\Portfolio.Domain.csproj|solutionrelative:portfolio.domain\\entities\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27FAEE6B-BC05-4B69-82D3-A4310BB4F8B8}|Portfolio.Domain\\Portfolio.Domain.csproj|c:\\users\\99470\\desktop\\portfolio\\portfolioapi\\portfolio.domain\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27FAEE6B-BC05-4B69-82D3-A4310BB4F8B8}|Portfolio.Domain\\Portfolio.Domain.csproj|solutionrelative:portfolio.domain\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27FAEE6B-BC05-4B69-82D3-A4310BB4F8B8}|Portfolio.Domain\\Portfolio.Domain.csproj|c:\\users\\99470\\desktop\\portfolio\\portfolioapi\\portfolio.domain\\entities\\contactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27FAEE6B-BC05-4B69-82D3-A4310BB4F8B8}|Portfolio.Domain\\Portfolio.Domain.csproj|solutionrelative:portfolio.domain\\entities\\contactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27FAEE6B-BC05-4B69-82D3-A4310BB4F8B8}|Portfolio.Domain\\Portfolio.Domain.csproj|c:\\users\\99470\\desktop\\portfolio\\portfolioapi\\portfolio.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27FAEE6B-BC05-4B69-82D3-A4310BB4F8B8}|Portfolio.Domain\\Portfolio.Domain.csproj|solutionrelative:portfolio.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27FAEE6B-BC05-4B69-82D3-A4310BB4F8B8}|Portfolio.Domain\\Portfolio.Domain.csproj|c:\\users\\99470\\desktop\\portfolio\\portfolioapi\\portfolio.domain\\entities\\achievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27FAEE6B-BC05-4B69-82D3-A4310BB4F8B8}|Portfolio.Domain\\Portfolio.Domain.csproj|solutionrelative:portfolio.domain\\entities\\achievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250112225231_mig_1.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Portfolio\\PortfolioAPI\\Portfolio.DataAccessLayer\\Migrations\\20250112225231_mig_1.cs",
+              "RelativeDocumentMoniker": "Portfolio.DataAccessLayer\\Migrations\\20250112225231_mig_1.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\Portfolio\\PortfolioAPI\\Portfolio.DataAccessLayer\\Migrations\\20250112225231_mig_1.cs",
+              "RelativeToolTip": "Portfolio.DataAccessLayer\\Migrations\\20250112225231_mig_1.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T22:52:32.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Portfolio\\PortfolioAPI\\Portfolio.Domain\\Entities\\AppRole.cs",
+              "RelativeDocumentMoniker": "Portfolio.Domain\\Entities\\AppRole.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\Portfolio\\PortfolioAPI\\Portfolio.Domain\\Entities\\AppRole.cs",
+              "RelativeToolTip": "Portfolio.Domain\\Entities\\AppRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T22:50:11.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Portfolio\\PortfolioAPI\\Portfolio.DataAccessLayer\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Portfolio.DataAccessLayer\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\Portfolio\\PortfolioAPI\\Portfolio.DataAccessLayer\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "Portfolio.DataAccessLayer\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T22:47:56.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Portfolio\\PortfolioAPI\\Portfolio.DataAccessLayer\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Portfolio.DataAccessLayer\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\Portfolio\\PortfolioAPI\\Portfolio.DataAccessLayer\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Portfolio.DataAccessLayer\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA9wBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T22:47:12.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PortfolioAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Portfolio\\PortfolioAPI\\PortfolioAPI\\PortfolioAPI.csproj",
+              "RelativeDocumentMoniker": "PortfolioAPI\\PortfolioAPI.csproj",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\Portfolio\\PortfolioAPI\\PortfolioAPI\\PortfolioAPI.csproj",
+              "RelativeToolTip": "PortfolioAPI\\PortfolioAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-12T22:43:41.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Portfolio\\PortfolioAPI\\Portfolio.Domain\\Entities\\Skill.cs",
+              "RelativeDocumentMoniker": "Portfolio.Domain\\Entities\\Skill.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\Portfolio\\PortfolioAPI\\Portfolio.Domain\\Entities\\Skill.cs",
+              "RelativeToolTip": "Portfolio.Domain\\Entities\\Skill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T22:40:24.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Portfolio\\PortfolioAPI\\Portfolio.Domain\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "Portfolio.Domain\\Entities\\Project.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\Portfolio\\PortfolioAPI\\Portfolio.Domain\\Entities\\Project.cs",
+              "RelativeToolTip": "Portfolio.Domain\\Entities\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T22:40:23.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactForm.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Portfolio\\PortfolioAPI\\Portfolio.Domain\\Entities\\ContactForm.cs",
+              "RelativeDocumentMoniker": "Portfolio.Domain\\Entities\\ContactForm.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\Portfolio\\PortfolioAPI\\Portfolio.Domain\\Entities\\ContactForm.cs",
+              "RelativeToolTip": "Portfolio.Domain\\Entities\\ContactForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T22:40:21.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Portfolio\\PortfolioAPI\\Portfolio.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Portfolio.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\Portfolio\\PortfolioAPI\\Portfolio.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Portfolio.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T22:40:19.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Portfolio\\PortfolioAPI\\Portfolio.Domain\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Portfolio.Domain\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\Portfolio\\PortfolioAPI\\Portfolio.Domain\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Portfolio.Domain\\Entities\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T22:40:16.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Achievement.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Portfolio\\PortfolioAPI\\Portfolio.Domain\\Entities\\Achievement.cs",
+              "RelativeDocumentMoniker": "Portfolio.Domain\\Entities\\Achievement.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\Portfolio\\PortfolioAPI\\Portfolio.Domain\\Entities\\Achievement.cs",
+              "RelativeToolTip": "Portfolio.Domain\\Entities\\Achievement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T22:40:14.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Portfolio\\PortfolioAPI\\PortfolioAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PortfolioAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\Portfolio\\PortfolioAPI\\PortfolioAPI\\Program.cs",
+              "RelativeToolTip": "PortfolioAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T22:40:03.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
