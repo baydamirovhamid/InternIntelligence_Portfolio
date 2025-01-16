@@ -10,3 +10,4 @@ C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.Domain\obj\Debug\net7.0\
 C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.Domain\obj\Debug\net7.0\refint\Portfolio.Domain.dll
 C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.Domain\obj\Debug\net7.0\Portfolio.Domain.pdb
 C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.Domain\obj\Debug\net7.0\ref\Portfolio.Domain.dll
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.Domain\obj\Debug\net7.0\Portfolio.Domain.sourcelink.json

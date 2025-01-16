@@ -15,3 +15,4 @@ C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.BusinessLayer\obj\Debug\
 C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.BusinessLayer\obj\Debug\net7.0\refint\Portfolio.BusinessLayer.dll
 C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.BusinessLayer\obj\Debug\net7.0\Portfolio.BusinessLayer.pdb
 C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.BusinessLayer\obj\Debug\net7.0\ref\Portfolio.BusinessLayer.dll
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.BusinessLayer\obj\Debug\net7.0\Portfolio.BusinessLayer.sourcelink.json

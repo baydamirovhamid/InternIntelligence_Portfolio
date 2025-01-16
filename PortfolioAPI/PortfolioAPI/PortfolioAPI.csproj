@@ -16,12 +16,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Portfolio.BusinessLayer\Portfolio.BusinessLayer.csproj" />
     <ProjectReference Include="..\Portfolio.DataAccessLayer\Portfolio.DataAccessLayer.csproj" />
     <ProjectReference Include="..\Portfolio.Domain\Portfolio.Domain.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Controllers\" />
   </ItemGroup>
 
 </Project>

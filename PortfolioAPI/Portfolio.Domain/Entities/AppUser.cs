@@ -6,7 +6,6 @@ namespace Portfolio.Domain.Entities
     {
         public string FullName { get; set; }
         public DateTime DateOfBirth { get; set; }
-        public string? RefreshToken { get; set; }
-        public DateTime? RefreshTokenEndDate { get; set; }
+
     }
 }

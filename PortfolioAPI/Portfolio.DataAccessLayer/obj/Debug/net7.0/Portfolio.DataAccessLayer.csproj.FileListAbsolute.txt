@@ -15,3 +15,4 @@ C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.DataAccessLayer\obj\Debu
 C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.DataAccessLayer\obj\Debug\net7.0\Portfolio.DataAccessLayer.pdb
 C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.DataAccessLayer\obj\Debug\net7.0\Portfolio.DataAccessLayer.genruntimeconfig.cache
 C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.DataAccessLayer\obj\Debug\net7.0\ref\Portfolio.DataAccessLayer.dll
+C:\Users\99470\Desktop\Portfolio\PortfolioAPI\Portfolio.DataAccessLayer\obj\Debug\net7.0\Portfolio.DataAccessLayer.sourcelink.json
